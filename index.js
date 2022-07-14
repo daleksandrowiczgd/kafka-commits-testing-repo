@@ -6,5 +6,4 @@ function () {
   let e = 5
   let f = 6
   let g = 7
-  let h = 8
 }
